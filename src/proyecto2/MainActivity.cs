@@ -6,7 +6,7 @@ using Android.Support.V7.App;
 
 namespace proyecto2
 {
-    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
+    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme")]
     public class MainActivity : AppCompatActivity
     {
         Button btnAuth;
